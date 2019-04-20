@@ -1,4 +1,4 @@
-CC=arm-linux-gnueabihf-gcc
+CC=arm-linux-gnueabi-gcc
 #CC=gcc
 
 main: main.c
